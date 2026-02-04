@@ -24,3 +24,12 @@ entrada que hagas el siguiente formato:
 ### título de la entrada
 ```
 
+
+
+
+
+
+
+/// Editar después en computador pero viene siendo trabajo en clase aun
+
+
