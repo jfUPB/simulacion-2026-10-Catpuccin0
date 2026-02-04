@@ -37,6 +37,22 @@ Tiene como modificarlo bajo una copia para poder (paso por referencia) estoy usa
 
 La actividad 1 es una actividad de trabajo Autónoma puede ser mejor que uno lo ponga directamente en la casa con tiempo y poder planificar bien una respuesta de bitacora
 
+*Actividad 5*
+
+Método de clase v.add(1,2,3)
+
+¿Qué pasa si uno no quiere modificar los datos?
+
+Mejor usar el método clase  (CLASE P5.VECTOR) con este no se tiene que guardar en ninguna parte simplemente el mismo lo guarda 
+
+¿Qué significa normalize()?
+Es para cambiarle la magnitud para manipularme la distancia sin necesidad de tele transportarse haciendo que no se vea nada organico
+
+¿Para que sirve el método dot()?
+Es el producto punto para operar dos vectores y poder saber las características de dos vectores si son paralelos o están diagonales más orientados a los angulos
+
+¿Producto cruz con otro que obtengo?
+Un tercer producto instancia - Más orientado a objetos y estatica - más funcional qué me generan más vectores
 
 
 
