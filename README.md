@@ -33,3 +33,8 @@ entrada que hagas el siguiente formato:
 /// Editar después en computador pero viene siendo trabajo en clase aun
 
 
+La actividad 1 es una actividad de trabajo Autónoma puede ser mejor que uno lo ponga directamente en la casa con tiempo y poder planificar bien una respuesta de bitacora
+
+*Actividad 2*
+
+
