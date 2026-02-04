@@ -32,11 +32,11 @@ entrada que hagas el siguiente formato:
 
 /// Editar después en computador pero viene siendo trabajo en clase aun
 
-Actividad 4
+*Actividad 4*
 Tiene como modificarlo bajo una copia para poder (paso por referencia) estoy usando la variable para apuntar al vector de tal forma puedo modificar los valores de este mismo (luego adjunto evidencia pero esto será por el momento después con los ejemplos explicaré más sobre el tema)
 
 La actividad 1 es una actividad de trabajo Autónoma puede ser mejor que uno lo ponga directamente en la casa con tiempo y poder planificar bien una respuesta de bitacora
 
-*Actividad 2*
+
 
 
